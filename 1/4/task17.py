@@ -17,3 +17,4 @@ while user != '=':
         prog = rangstart + (rang // 2)
         print(prog)
         user = input()
+        
